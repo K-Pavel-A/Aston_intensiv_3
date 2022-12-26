@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AstonIntensiv3</string>
+    <string name="austria">Австрия</string>
+    <string name="poland">Польша</string>
+    <string name="italy">Италия</string>
+    <string name="columbia">Колумбия</string>
+    <string name="madagascar">Мадагаскар</string>
+    <string name="thailand">Таиланд</string>
+    <string name="denmark">Дания</string>
+    <string name="switzerland">Швейцария</string>
+    <string name="task_1">Задание 1</string>
+    <string name="task_2">Задание 2</string>
+    <string name="picture">Картинка</string>
+    <string name="insert_link">Введите ссылку</string>
+</resources>
